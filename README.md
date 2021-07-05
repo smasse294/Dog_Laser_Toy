@@ -59,4 +59,4 @@
 </ul>
 <p><strong>See it in action:</strong></p>
 <p>&nbsp;</p>
-https://www.youtube-nocookie.com/embed/8UpC5gDLtuk
+https://www.youtube.com/8UpC5gDLtuk
