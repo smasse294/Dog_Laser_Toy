@@ -1,4 +1,4 @@
-# Dog_Laser_Toy
+# Dog Laser Toy
 <p>A Pan/Tilt Dog Laser Toy</p>
 <p><br /><strong>Features:</strong></p>
 <ul>
@@ -58,5 +58,4 @@
 </li>
 </ul>
 <p><strong>See it in action:</strong></p>
-<p>&nbsp;</p>
-https://www.youtube.com/8UpC5gDLtuk
+<li><a href="https://youtu.be/8UpC5gDLtuk">Youtube Video</a></li>
